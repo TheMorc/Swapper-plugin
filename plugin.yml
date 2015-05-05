@@ -1,0 +1,8 @@
+name: Swapper
+main: com.MorcCrafak.swapper.main
+version: 1.0
+description: >
+             Swapper Plugin.
+commands:
+  swap:
+    description: Swap with player!
